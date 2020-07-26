@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Dave 👋
 
 <!--
 **davelevine/davelevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I’m currently...
+- Studying for my AWS Certified Solutions Architect cert
+- Learning systems design and analysis
+- Maintaining a fairly complex homelab
+- Building my own internal knowledge base
