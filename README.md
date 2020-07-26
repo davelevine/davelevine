@@ -1,4 +1,4 @@
-### Hey, I'm Dave 👋
+### Hey, I'm Dave! 👋
 
 <!--
 **davelevine/davelevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
