@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I’m currently...
-- ~~Studying for my AWS Certified Solutions Architect cert~~ **![Passed!](https://www.youracclaim.com/badges/1499850a-2482-4ae0-b704-a85900ec631d/public_url)**
+- ~~Studying for my AWS Certified Solutions Architect cert~~ **Passed!**
 - Learning systems design and analysis
 - Maintaining a fairly complex homelab
 - Building my own internal knowledge base
