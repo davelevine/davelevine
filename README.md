@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I’m currently...
-- ~~Studying for my AWS Certified Solutions Architect cert~~ Passed!
+- ~~Studying for my AWS Certified Solutions Architect cert~~ **Passed!**
 - Learning systems design and analysis
 - Maintaining a fairly complex homelab
 - Building my own internal knowledge base
