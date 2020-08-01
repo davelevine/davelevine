@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### I’m currently...
 - ~~Studying for my AWS Certified Solutions Architect cert~~ [**Passed!**](https://raw.githubusercontent.com/davelevine/davelevine/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png)
 - Learning systems design and analysis
-- Maintaining a fairly complex homelab
+- Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
 - Building my own internal knowledge base
