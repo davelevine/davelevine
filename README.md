@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 - Learning systems design and analysis
 - Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
 - Building my own [internal knowledge base](https://raw.githubusercontent.com/davelevine/davelevine/master/Bookstack_Shelves.png). As of January 30th, 2021, it contains: 
-  - 3 shelves
-  - 19 books 
-  - 69 chapters
-  - 247 pages
+  - 3 shelves | 19 books | 69 chapters | 247 pages
