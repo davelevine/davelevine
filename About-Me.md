@@ -1,6 +1,6 @@
 # Introduction
 
-I'm a father, husband, analyst, system administrator, minimalist, technical writer, musician and lifter of weights. I also build complex distributed systems and write about it.
+I'm a father, husband, analyst, system administrator, minimalist, technical writer, musician and lifter of weights.
 
 ## Interests
 
