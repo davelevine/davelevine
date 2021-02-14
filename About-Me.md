@@ -1,11 +1,9 @@
 # Introduction
 
----------------------------
 I'm a father, husband, analyst, system administrator, minimalist, technical writer, musician and lifter of weights. I also build complex distributed systems and write about it.
 
 ## Interests
 
----------------------------
 My interests can be reduced nicely to the following:
 
 * Learning something well enough to truly understand it, then capture and document it.
