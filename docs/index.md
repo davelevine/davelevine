@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/davelevine/davelevine/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a father, husband, analyst, system administrator, minimalist, technical writer, musician and lifter of weights.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Interests
 
-### Markdown
+My interests can be reduced nicely to the following:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Learning something well enough to truly understand it, then capture and document it.
+* Personal growth and well-being.
+* Sharing and discussing with others.
 
-```markdown
-Syntax highlighted code block
+I spend a fair amount of time reading and learning as much as I can. I think the most important thing anyone can do is pass knowledge along to someone else. Although I don't teach professionally, I enjoy sharing information and having thoughtful discussion whenever possible.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davelevine/davelevine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Some topics of interest include system design, homelab, network security, self improvement, cloud computing and most recently, fatherhood.
