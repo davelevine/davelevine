@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - Learning systems design and analysis
 - Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
 - Building my own [internal knowledge base](https://raw.githubusercontent.com/davelevine/davelevine/master/Bookstack-Shelves.png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davelevine)](https://github.com/anuraghazra/github-readme-stats)
