@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - Studying for the AWS Certified SysOps Administrator cert
 - Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
 - Building my own [internal knowledge base](https://raw.githubusercontent.com/davelevine/davelevine/master/Bookstack-Shelves.png)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davelevine&show_icons=true&theme=radical)
