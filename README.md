@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I’m currently...
 - ~~Studying for the AWS Certified Solutions Architect cert~~ [**Passed!**](https://raw.githubusercontent.com/davelevine/davelevine/master/AWS_Certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png)
-- Enrolled in a [systems design and analysis](https://ecornell.cornell.edu/certificates/engineering/systems-design/) certificate program through eCornell.
+- ~~Enrolled in a [Systems Design & Analysis](https://ecornell.cornell.edu/certificates/engineering/systems-design/) certificate program through eCornell.~~ [**Completed!**](https://raw.githubusercontent.com/davelevine/davelevine/main/eCornell/DaveLevine_SystemsDesign.pdf)
 - Learning Ansible
 - Studying for the AWS Certified SysOps Administrator cert
 - Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
