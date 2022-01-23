@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - Learning Ansible
 - Studying for the AWS Certified SysOps Administrator cert
 - Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
-- Building my own [internal knowledge base](https://raw.githubusercontent.com/davelevine/davelevine/master/Bookstack-Shelves.png)
+- Building my own [knowledge base](https://kb.levine.org)
