@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <p>
+    <a href="mailto:contact@levine.org#gh-light-mode-only">
+        <img src="./assets/light-mode/envelope.svg" />
+    </a>
+    <a href="mailto:contact@levine.org#gh-dark-mode-only">
+        <img src="./assets/dark-mode/envelope.svg" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/iamdavelevine#gh-light-mode-only">
         <img src="./assets/light-mode/linkedin.svg" />
     </a>
