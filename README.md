@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <p>
+    <a href="https://www.linkedin.com/in/iamdavelevine#gh-light-mode-only">
+        <img src="./assets/light-mode/linkedin.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/iamdavelevine#gh-dark-mode-only">
+        <img src="./assets/dark-mode/linkedin.svg" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/davelevine#gh-light-mode-only">
         <img src="./assets/light-mode/github.svg" />
     </a>
