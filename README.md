@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Social Icons -->
+
 <p>
     <a href="mailto:contact@levine.org#gh-light-mode-only">
         <img src="./assets/light-mode/envelope.svg" />
