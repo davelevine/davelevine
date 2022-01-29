@@ -1,9 +1,11 @@
-### Hey, I'm Dave! 👋
+# Hey, I'm Dave! <img src="./assets/wave.gif" width="30px">
 
 <!--
 **davelevine/davelevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+// Hand emoji 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +17,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I’m currently...
+<p>
+    <a href="https://github.com/davelevine#gh-light-mode-only">
+        <img src="./assets/light-mode/github.svg" />
+    </a>
+    <a href="https://github.com/davelevine#gh-dark-mode-only">
+        <img src="./assets/dark-mode/github.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://keybase.com/davelevine#gh-light-mode-only">
+        <img src="./assets/light-mode/keybase.svg" />
+    </a>
+    <a href="https://keybase.com/davelevine#gh-dark-mode-only">
+        <img src="./assets/dark-mode/keybase.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/iamdavelevine#gh-light-mode-only">
+        <img src="./assets/light-mode/linkedin.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/iamdavelevine#gh-dark-mode-only">
+        <img src="./assets/dark-mode/linkedin.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://kb.levine.org#gh-light-mode-only">
+        <img src="./assets/light-mode/globe.svg" />
+    </a>
+    <a href="https://kb.levine.org#gh-dark-mode-only">
+        <img src="./assets/dark-mode/globe.svg" />
+    </a>
+</p>
+
+## I’m currently
+
 - ~~Studying for the AWS Certified Solutions Architect cert~~ [**Passed!**](https://raw.githubusercontent.com/davelevine/davelevine/master/AWS_Certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png)
 - ~~Enrolled in a [Systems Design & Analysis](https://ecornell.cornell.edu/certificates/engineering/systems-design/) certificate program through eCornell.~~ [**Completed!**](https://raw.githubusercontent.com/davelevine/davelevine/main/eCornell/DaveLevine_SystemsDesign.pdf)
 - Learning Ansible
