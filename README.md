@@ -32,18 +32,18 @@ Here are some ideas to get you started:
         <img src="./assets/dark-mode/github.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://keybase.com/davelevine#gh-light-mode-only">
-        <img src="./assets/light-mode/keybase.svg" />
-    </a>
-    <a href="https://keybase.com/davelevine#gh-dark-mode-only">
-        <img src="./assets/dark-mode/keybase.svg" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://kb.levine.org#gh-light-mode-only">
         <img src="./assets/light-mode/globe.svg" />
     </a>
     <a href="https://kb.levine.org#gh-dark-mode-only">
         <img src="./assets/dark-mode/globe.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://keybase.com/davelevine#gh-light-mode-only">
+        <img src="./assets/light-mode/keybase.svg" />
+    </a>
+    <a href="https://keybase.com/davelevine#gh-dark-mode-only">
+        <img src="./assets/dark-mode/keybase.svg" />
     </a>
 </p>
 
