@@ -39,6 +39,13 @@ Here are some ideas to get you started:
         <img src="./assets/dark-mode/github.svg" />
     </a>
     &nbsp;&nbsp;
+    <a href="https://dave.levine.org/files/davelevine-resume.pdf#gh-light-mode-only">
+        <img src="./assets/light-mode/resume.svg" />
+    </a>
+    <a href="https://dave.levine.org/files/davelevine-resume.pdf#gh-dark-mode-only">
+        <img src="./assets/dark-mode/resume.svg" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://kb.levine.org#gh-light-mode-only">
         <img src="./assets/light-mode/globe.svg" />
     </a>
