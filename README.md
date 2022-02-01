@@ -48,10 +48,10 @@ Here are some ideas to get you started:
         <img src="./assets/dark-mode/resume.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://kb.levine.org#gh-light-mode-only">
+    <a href="https://docs.levine.org#gh-light-mode-only">
         <img src="./assets/light-mode/globe.svg" />
     </a>
-    <a href="https://kb.levine.org#gh-dark-mode-only">
+    <a href="https://docs.levine.org#gh-dark-mode-only">
         <img src="./assets/dark-mode/globe.svg" />
     </a>
     &nbsp;&nbsp;
@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 - Learning Ansible
 - Studying for the AWS Certified SysOps Administrator cert
 - Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
-- Building my own [knowledge base](https://kb.levine.org)
+- Building my own [knowledge base](https://docs.levine.org)
