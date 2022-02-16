@@ -69,5 +69,5 @@ Here are some ideas to get you started:
 - ~~Enrolled in a [Systems Design & Analysis](https://ecornell.cornell.edu/certificates/engineering/systems-design/) certificate program through eCornell.~~ [**Completed!**](https://raw.githubusercontent.com/davelevine/davelevine/main/eCornell/DaveLevine_SystemsDesign.pdf)
 - Learning Ansible
 - Studying for the AWS Certified SysOps Administrator cert
-- Maintaining a fairly complex [homelab](https://raw.githubusercontent.com/davelevine/davelevine/master/Network-Diagram-Final.png)
+- Maintaining a fairly complex [homelab](https://cdn.levine.org/uploads/images/gallery/2020-04/jEkYsXlr5RheldtB-Grove_Network-Diagram-Final.png)
 - Building my own [knowledge base](https://kb.levine.org)
