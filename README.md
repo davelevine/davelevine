@@ -63,6 +63,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<a rel="me" href="https://infosec.exchange/@davelevine"></a>
+
 ## I’m currently
 
 - Studying for the [AWS Certified Solutions Architect: Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) certification
