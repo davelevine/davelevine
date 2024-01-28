@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 ## I’m currently
 
 - Studying for the [AWS Certified Solutions Architect: Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) certification
-- Maintaining a fairly complex [homelab](https://cdn.levine.org/uploads/images/gallery/2023-01/network-diagram-1.png)
+- Maintaining a fairly complex [homelab](https://cdn.levine.org/uploads/images/gallery/2023-11/network-diagram-1.png)
 - Building my own [knowledge base](https://kb.levine.org)
