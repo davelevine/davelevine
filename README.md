@@ -41,10 +41,10 @@ Here are some ideas to get you started:
         <img src="./assets/dark-mode/github.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.davelevine.io/assets/davelevine-resume.pdf#gh-light-mode-only">
+    <a href="https://dave.levine.io/assets/davelevine-resume.pdf#gh-light-mode-only">
         <img src="./assets/light-mode/resume.svg" />
     </a>
-    <a href="https://www.davelevine.io/assets/davelevine-resume.pdf#gh-dark-mode-only">
+    <a href="https://dave.levine.io/assets/davelevine-resume.pdf#gh-dark-mode-only">
         <img src="./assets/dark-mode/resume.svg" />
     </a>
     &nbsp;&nbsp;
@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 ## I’m currently
 
 - Studying for the [AWS Certified Solutions Architect: Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) certification
-- Maintaining a fairly complex [homelab](https://cdn.levine.org/uploads/images/gallery/2023-11/network-diagram-1.png)
+- Maintaining a fairly complex [homelab](https://cdn.levine.io/uploads/images/gallery/2023-11/network-diagram-1.png)
 - Building my own [knowledge base](https://kb.levine.org)
