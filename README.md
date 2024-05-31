@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <!-- Social Icons -->
 
 <p>
-    <a href="mailto:contact@levine.org#gh-light-mode-only">
+    <a href="mailto:contact@levine.io#gh-light-mode-only">
         <img src="./assets/light-mode/envelope.svg" />
     </a>
-    <a href="mailto:contact@levine.org#gh-dark-mode-only">
+    <a href="mailto:contact@levine.io#gh-dark-mode-only">
         <img src="./assets/dark-mode/envelope.svg" />
     </a>
     &nbsp;&nbsp;
@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
 - Studying for the [AWS Certified Solutions Architect: Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) certification
 - Maintaining a fairly complex [homelab](https://cdn.levine.io/uploads/images/gallery/2023-11/network-diagram-1.png)
-- Building my own [knowledge base](https://kb.levine.org)
+- Building my own [knowledge base](https://kb.levine.io)
