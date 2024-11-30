@@ -58,9 +58,6 @@ Here are some ideas to get you started:
     <a href="https://search.cc#gh-light-mode-only">
         <img src="./assets/light-mode/searx.svg" />
     </a>
-    <a href="https://search.cc#gh-dark-mode-only">
-        <img src="./assets/dark-mode/searx.svg" />
-    </a>
 </p>
 
 ## I’m currently
